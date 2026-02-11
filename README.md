@@ -16,3 +16,5 @@ El maestro tendrá acceso al area de calificaciones y al area de lista de asiste
 
 Configuración
 Se instala el servidor apache con XAMPP, se crea una base de datos llamada "maestro" y se importa el script que se encuentra en la carpeta raiz del proyecto a la base de datos.
+
+<img width="1901" height="910" alt="image" src="https://github.com/user-attachments/assets/62968013-9f2e-4c9c-9d07-0f734bf772e2" />
