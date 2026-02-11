@@ -1,0 +1,78 @@
+th{
+	background-color: #E9EAEA;
+}
+
+body{
+
+	margin: 0;
+	padding-top: 0;
+}
+
+.navbar {
+  justify-content: center;
+  display: flex;
+  color:black;
+  overflow: hidden;
+  background-color: grey;
+  margin:0;
+  padding: 0;
+  position: relative; /* Set the navbar to fixed position */ /* Position the navbar at the top of the page */
+  margin-bottom: 50px;
+  width: 100%; /* Full width */
+  float: center;
+  height: 100px;
+  padding: 0px;
+
+}
+
+.grupos {
+  display: flex;
+  color:black;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background-color: grey;
+  margin:0;
+  padding: 0;
+  position: relative; /* Set the navbar to fixed position */ /* Position the navbar at the top of the page */
+  margin-bottom: 10px;
+  width: 70%; /* Full width */
+  float: right;
+  margin-right: 0;
+  height: 70px;
+  padding: 0px;
+
+}
+
+.navbarleft{
+  align-items: center;
+  justify-content: left;
+  display: flex;
+  color:black;
+  overflow: hidden;
+  background-color: grey;
+  margin:0px auto;
+  position: relative; /* Set the navbar to fixed position */
+  top: 0px; /* Position the navbar at the top of the page */
+  width: 30%; /* Full width */
+  float: left;
+  height: 70px;
+  margin-bottom: 10px;
+  
+}
+
+img {
+      opacity: 0.6;
+      -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 70);
+      filter: alpha(opacity = 70);
+      transition-duration: 0.2s;
+      -moz-transition-duration: 0.2s;
+      -webkit-transition-duration: 0.2s;
+      -o-transition-duration: 0.2s;
+      }
+      
+      img:hover {
+      opacity: 1.0;
+      -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 100);
+      filter: alpha(opacity = 100);
+      }
